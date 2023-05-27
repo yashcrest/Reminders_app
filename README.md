@@ -10,6 +10,7 @@ The application allows users to:
 - Mark reminders as completed.
 - Remove reminders from the list.
 - Search reminders in the list.
+- Leverage browser local storage to retain reminders, even when page is refreshed. 
 
 ## Getting Started
 
@@ -32,6 +33,7 @@ The application allows users to:
 
 *Add some screenshots of your app here*
 
+
 ## Project Structure
 
 - `index.html` - The main HTML file that displays the content in the web browser.
@@ -40,16 +42,10 @@ The application allows users to:
 
 ## Future Scope
 
-*Discuss any improvements or features you plan to add in the future*
+*A log in screen will be implemented for users to login and view their personal reminders*
 
 ## Author
 
-*Your Name*
+Yash Shrestha
 
-## Acknowledgements
 
-*Include any acknowledgements, credits, or resources used here*
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
