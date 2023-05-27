@@ -31,7 +31,7 @@ The application allows users to:
 
 ## Screenshots
 
- ### Reminders screenshot
+### Reminders screenshot
 
 <img width="1048" alt="Screenshot 2023-05-27 at 8 48 25 pm" src="https://github.com/yashcrest/Reminders_app/assets/79971012/c09b5f60-8045-4f8f-b10f-0651deb9e15d">
 
