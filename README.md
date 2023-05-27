@@ -29,9 +29,9 @@ The application allows users to:
 
 3. Open the `index.html` file in a web browser
 
-# Screenshots
+## Screenshots
 
-Reminders screenshot
+ ### Reminders screenshot
 
 <img width="1048" alt="Screenshot 2023-05-27 at 8 48 25 pm" src="https://github.com/yashcrest/Reminders_app/assets/79971012/c09b5f60-8045-4f8f-b10f-0651deb9e15d">
 
@@ -40,7 +40,7 @@ Reminders screenshot
 
 
 
-# Leveraging Local Storage
+### Leveraging Local Storage
 <img width="1045" alt="Screenshot 2023-05-27 at 6 25 13 pm" src="https://github.com/yashcrest/Reminders_app/assets/79971012/7a7528ee-3077-4f2b-af78-ab29126757b0">
 
 
