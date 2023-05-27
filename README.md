@@ -40,7 +40,7 @@ Reminders screenshot
 
 
 
-Leveraging local storage
+*Leveraging local storage*
 <img width="1045" alt="Screenshot 2023-05-27 at 6 25 13 pm" src="https://github.com/yashcrest/Reminders_app/assets/79971012/7a7528ee-3077-4f2b-af78-ab29126757b0">
 
 
