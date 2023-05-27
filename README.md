@@ -53,7 +53,8 @@ The application allows users to:
 
 ## Future Scope
 
-*A log in screen will be implemented for users to login and view their personal reminders*
+- A log in screen will be implemented for users to login and view their personal reminders.
+- Date and time functionality to be added.
 
 ## Author
 
