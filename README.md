@@ -16,7 +16,7 @@ The application allows users to:
 
 ### Dependencies
 
-- A web browser to open HTML files (tested with Chrome, Firefox, and Edge)
+- A web browser to open HTML files (tested with Chrome, Firefox, Edge and Safari)
 
 ### Installing and Running
 
