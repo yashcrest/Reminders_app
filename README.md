@@ -1,5 +1,3 @@
-# Reminders_app
-
 # To-Do List Application
 
 This project is a simple to-do list application created using HTML, CSS, and JavaScript. 
