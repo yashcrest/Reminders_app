@@ -1,0 +1,166 @@
+/* Include the padding and border in an element's total width and height */
+* {
+    box-sizing: border-box;
+  }
+  
+
+/* Style the header */
+.header {
+  background-color: #555;
+  width: 100%;
+  top: 0;
+  padding: 30px 30px;
+  color: white;
+  position: sticky; /* it will prevent the div below to not overlay */
+  z-index: 999
+  }
+
+  .header h1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+/* Clear floats after the header */
+.header:after {
+  content: "";
+  display: table;
+  clear: both;
+}  
+
+/* Style the list items */
+ul li {
+  cursor: pointer;
+  list-style: none;
+  position: relative;
+  background: #eee;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  transition: 0.2s;
+  max-height: fit-content;
+  box-sizing: border-box;
+}
+
+ul {
+  margin-top: 0;
+  padding: 0;
+}
+
+/* Set all odd list items to a different color (zebra-stripes) */
+ul li:nth-child(odd) {
+  background: #f9f9f9;
+}
+
+/* Darker background-color on hover */
+ul li:hover {
+  background: #ddd;
+}
+
+/* When clicked on, add a background color and strike out text */
+ul li.checked {
+  background: #888;
+  color: #fff;
+  border-bottom: 1px black solid;
+}
+
+ul li.checked .remind {
+  text-decoration: line-through; 
+}
+
+/* Add a "checked" mark when clicked on */
+ul li.checked::before {
+  content: '';
+  position: absolute;
+  border-color: #fff;
+  border-style: solid;
+  border-width: 0 2px 2px 0;
+  top: 10px;
+  left: 10px;
+  transform: rotate(45deg);
+  height: 15px;
+  width: 7px;
+}
+
+/* remind class for span */
+li span.remind {
+  width: 100%;
+  margin: 0px 8px 0px 30px;
+  padding: 12px 10px;
+  font-size: 18px;
+  display: inline-block;
+  transition: 0.2s;
+}
+
+/* style the close button */
+li span.close {
+  position: absolute;
+  right: 0;
+  top:0;
+  bottom: 0;
+  padding: 12px 16px;
+}
+
+.close:hover {
+  background-color: #f44336;
+  color: white;
+}
+
+/* Style the input */
+#inputField {
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  width: 75%;
+  padding: 10px;
+  float: left;
+  font-size:16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* Style the Reminder Button */
+#remind_btn{
+  padding: 10px;
+  width: 25%;
+  background: #d9d9d9;
+  color: #555;
+  float: left;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 0;
+}
+
+#remind_btn:hover {
+  background-color: #bbb;
+}
+
+/* This is an error msg that will show up when user click
+ reminder button w/o inputing anything */
+.error {
+  color: rgb(245, 112, 17);
+  font-family: sans-serif;
+  padding: 5px;
+  margin: 5px;
+  width: 100%;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.searchBox{
+box-sizing: border-box;
+text-align: right;
+padding-bottom: 30px;
+font-size: 2px;
+}
+
+#searchInput {
+box-sizing: border-box;
+font-size: 18px;
+padding: 5px;
+border-radius: 5px;
+margin: 5px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+#searchInput:hover {
+background-color: #eee;
+}
