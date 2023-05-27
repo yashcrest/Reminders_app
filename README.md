@@ -31,7 +31,12 @@ The application allows users to:
 
 ## Screenshots
 
-*Add some screenshots of your app here*
+Reminders screenshot
+<img width="1056" alt="Screenshot 2023-05-27 at 6 22 41 pm" src="https://github.com/yashcrest/Reminders_app/assets/79971012/ad8620bb-28f4-4580-ba77-2b54a5373d44">
+
+Leveraging local storage
+<img width="1045" alt="Screenshot 2023-05-27 at 6 25 13 pm" src="https://github.com/yashcrest/Reminders_app/assets/79971012/7a7528ee-3077-4f2b-af78-ab29126757b0">
+
 
 
 ## Project Structure
