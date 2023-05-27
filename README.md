@@ -10,7 +10,7 @@ The application allows users to:
 - Mark reminders as completed.
 - Remove reminders from the list.
 - Search reminders in the list.
-- Leverage browser local storage to retain reminders, even when page is refreshed. 
+- Leverage browser local storage to retain reminders, after page is refreshed. 
 
 ## Getting Started
 
