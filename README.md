@@ -1,4 +1,4 @@
-![Reminder](https://github.com/yashcrest/Reminders_app/assets/79971012/1d549c80-2620-4ee8-b26d-9b0a4d5e2254)# To-Do List Application
+# To-Do List Application
 
 This project is a simple to-do list application created using HTML, CSS, and JavaScript. 
 
