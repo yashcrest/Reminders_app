@@ -1,6 +1,10 @@
-# To-Do List Application
+![Reminder](https://github.com/yashcrest/Reminders_app/assets/79971012/1d549c80-2620-4ee8-b26d-9b0a4d5e2254)# To-Do List Application
 
 This project is a simple to-do list application created using HTML, CSS, and JavaScript. 
+
+## Working Demo
+![Reminder](https://github.com/yashcrest/Reminders_app/assets/79971012/770df7f6-060e-4406-ba4a-f06c5afc5577)
+
 
 ## Description
 
@@ -28,21 +32,6 @@ The application allows users to:
 2. If downloaded as a zip, extract the zip file
 
 3. Open the `index.html` file in a web browser
-
-## Screenshots
-
-### Reminders screenshot
-
-<img width="1048" alt="Screenshot 2023-05-27 at 8 48 25 pm" src="https://github.com/yashcrest/Reminders_app/assets/79971012/c09b5f60-8045-4f8f-b10f-0651deb9e15d">
-
-
-<img width="1056" alt="Screenshot 2023-05-27 at 6 22 41 pm" src="https://github.com/yashcrest/Reminders_app/assets/79971012/ad8620bb-28f4-4580-ba77-2b54a5373d44">
-
-
-
-### Leveraging Local Storage
-<img width="1045" alt="Screenshot 2023-05-27 at 6 25 13 pm" src="https://github.com/yashcrest/Reminders_app/assets/79971012/7a7528ee-3077-4f2b-af78-ab29126757b0">
-
 
 
 ## Project Structure
