@@ -18,10 +18,6 @@ The application allows users to:
 
 ## Getting Started
 
-### Dependencies
-
-- A web browser to open HTML files (tested with Chrome, Firefox, Edge and Safari)
-
 ### Installing and Running
 
 1. Clone this repository or download as a zip file
