@@ -44,18 +44,6 @@ function render(reminders) {
 
 let reminders = loadFromStorage();
 render(reminders);
-//
-//
-//
-//
-//
-
-remind_btn.addEventListener('click', addReminder);
-inputField.addEventListener('keyup', (e) => {
-  if (e.key === 'Enter') {
-    addReminder();
-  }
-});
 
 function addReminder() {
   const text = inputField.value.trim();
